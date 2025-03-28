@@ -97,8 +97,7 @@ However, feel free to fork the repository and adapt it for your own learning pur
 **License:**
 
 This project is licensed under the MIT License.
-`https://github.com/Monametsi-s/MyBankingApp?tab=MIT-1-ov-file#readme`
----
+
 
 **Disclaimer:** This project is for educational purposes only and is based on a publicly available tutorial. 
 It is not intended for production use or as a real-world financial application without significant further development and security considerations. 
