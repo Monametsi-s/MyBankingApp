@@ -75,6 +75,3 @@ Follow these steps to get your local development environment running:
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
-
-(You can acknowledge the tutorial or any other resources you are using here.)
